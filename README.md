@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Olá! eu sou Henrique Marques</h1>
+<h1 align="left">:wave: Olá! eu sou o Henrique Marques</h1>
 <h3 align="left">Sou versatilista, Full Stack Web Developer, Desenvolvedor de aplicativos e Designer de nível iniciante</h3>
 <p align="left">
   <a href="https://www.instagram.com/rique__marques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
